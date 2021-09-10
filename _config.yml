@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://akakoom.com'
+url: 'https://www.akakoom.com'  # https://akakoom.github.io
 
 github:
   username: akakoom             # change to your github username
